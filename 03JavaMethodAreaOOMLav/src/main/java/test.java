@@ -23,5 +23,6 @@ public class test {
         String str3 = new StringBuilder("ja").append("va1").toString();
         System.out.println(str3.intern() == str3);
 
+        int  add = 0;
     }
 }
