@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01OutOfMemoryErrorLab/01OutOfMemoryErrorLab.iml" filepath="$PROJECT_DIR$/01OutOfMemoryErrorLab/01OutOfMemoryErrorLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02StackOutOfMemoryLab/02StackOutOfMemoryLab.iml" filepath="$PROJECT_DIR$/02StackOutOfMemoryLab/02StackOutOfMemoryLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOMforFuctionLav/03JavaMethodAreaOOMLav.iml" filepath="$PROJECT_DIR$/OOMforFuctionLav/03JavaMethodAreaOOMLav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm3.iml" filepath="$PROJECT_DIR$/jvm3.iml" />
+    </modules>
+  </component>
+</project>
